@@ -1,10 +1,8 @@
 ## Kon'nichiwa Mina-san!  <!-- General Kenobi! --> 🏮
 
-<img src="https://pa1.narvii.com/6678/4f8fcbc0254189dab52898d88f7fedab1a7c66a2_hq.gif" alt="Novachrono" />
-
 Merhaba benim adım Sabri Beydanol, Türkiye'denim (Çoğrafya Kaderdir) ve programlama dillerine karşı aşinalığım var.
 
-#### Bazı istatikler!
+#### Benim Hakkımda olan bazı istatistikler!
 
 <table>
   <tr>
