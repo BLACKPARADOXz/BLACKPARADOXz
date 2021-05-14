@@ -1,4 +1,4 @@
-## Kon'nichiwa Mina-san!  <!-- General Kenobi! --> 🏮
+## Kon'nichiwa Mina-san! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Merhaba benim adım Sabri Beydanol, Türkiye'denim (Çoğrafya Kaderdir) ve programlama dillerine karşı aşinalığım var.
 
