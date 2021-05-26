@@ -1,8 +1,8 @@
 ## Kon'nichiwa Mina-san! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Merhaba benim adım Sabri Beydanol, Türkiye'denim (Çoğrafya Kaderdir) ve programlama dillerine karşı aşinalığım var.
+Hello my name is Sabiru Beidanoru, Im from turkey (Georaphy is destiny) and i like dealing with programming languages.
 
-#### Benim Hakkımda olan bazı istatistikler!
+#### My github statics! (It may be bad)
 
 <table>
   <tr>
