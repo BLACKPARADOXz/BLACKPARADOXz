@@ -2,7 +2,7 @@
 
 Hello my name is Sabiru Beidanoru, Im from turkey (Georaphy is destiny) and i like dealing with programming languages.
 
-#### My github statics! (It may be bad)
+#### My github statics!
 
 <table>
   <tr>
