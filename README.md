@@ -1,7 +1,7 @@
 <h3>Kon'nichiwa Mina-san!</h3>
 
-Hello my name is Sabri Beydanol, Im from turkey and i like dealing with programming languages.
-I'm trying to do manga site project for now.
+Hello my name is Sabri Beydanol, Im from Turkey and i like dealing with programming languages.
+Currently im working on a manga site project.
 
 #### My github statics!
 
