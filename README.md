@@ -1,5 +1,4 @@
 <h3>Kon'nichiwa Mina-san!</h3>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hello my name is Sabri Beydanol, Im from turkey and i like dealing with programming languages.
 I'm trying to do manga site project for now.
